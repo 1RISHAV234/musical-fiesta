@@ -1,0 +1,27 @@
+html {
+    text-align: center;
+}
+h1 {
+    font-family: 'Lucida Sans';
+    color: lightgreen;
+    font-size: 40px;
+}
+button {
+    color: white;
+    border: none;
+    background-color: black;
+    border-radius: 50px;
+    width: 30%;
+    height: 6%;
+    cursor: pointer;
+    font-size: 15px;
+    margin-top: 20px;
+}
+body {
+    background: linear-gradient(to bottom , purple , cyan , lightgreen);
+}
+#namecharset {
+    font-size: 18px;
+    font-family: Segoe UI;
+    color:darkgreen;
+}
